@@ -81,4 +81,4 @@ The database includes sample data for:
 
 This database provides a solid foundation for an e-commerce platform with flexible product variations and attributes.
 
-The [ERD image](Images\E-commerce Database ERD.jpg) can be found in the images folder that shows the entiry relationship between the tables, which was curated using Draw.io.
+The [ERD image](Images/E-commerce Database ERD.jpg) can be found in the images folder that shows the entiry relationship between the tables, which was curated using Draw.io.
